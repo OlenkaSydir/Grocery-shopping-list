@@ -1,0 +1,28 @@
+.done {
+  text-decoration: line-through;
+}
+.list-item-checkbox{
+  display: none;
+}
+li{
+  list-style-type: none;
+  font-family: 'Lato', sans-serif;
+  font-size: 1.2em;
+}
+.item-property{
+  text-align: justify;
+  margin-left: 8%;
+}
+.item-property-value{
+  margin: 10% 2% auto 2%;
+}
+.edit-delete-buttons{
+  align-content: center;
+  padding: 5%;
+}
+.edit-icon{
+  margin: 0 5% 0 5%;
+}
+.delete-icon{
+  margin: 0 5% 0 5%;
+}

@@ -1,0 +1,28 @@
+.list-input{
+    width: 80%;
+    height: 2em;
+    border: none;
+    margin: 2% 0 2% 0;
+    background-color: #b7d7bd;
+}
+form p{
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2em;
+    margin: .5% 0 .5% 0;
+
+}
+.list-priority{
+    width: 10%;
+    height: 2em;
+    margin: 2% 0 2% 0;
+    background-color: #b7d7bd;
+    border: 0.5px solid black;
+}
+.form-btn{
+    margin: 3% 0 3% 0;
+    padding: 2% 3% 2% 3%;
+    font-family: 'Lato', sans-serif;
+    font-size: 1.2em;
+    background-color: #5b986d;
+    border: 0.5px solid black;
+}
