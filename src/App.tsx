@@ -3,7 +3,7 @@ import {initialItems} from "./initialItems";
 import {ItemList} from "./ItemList";
 import {AddItemForm} from "./AddItemForm";
 import {AddItem, EditItem, FilterFunc, Item, RemoveItem, SortFunc, ToggleComplete} from "./types";
-import './app.css'
+import './App.css'
 import './fonts.css'
 
 
